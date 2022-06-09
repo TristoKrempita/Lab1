@@ -7,7 +7,7 @@ namespace Lab1
     class NewClass
     {
         void myFun(){
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World! Hello World!");
         }
     }
 }
