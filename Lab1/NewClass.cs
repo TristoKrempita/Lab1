@@ -6,8 +6,8 @@ namespace Lab1
 {
     class NewClass
     {
-        static void Main(string[] args)
-        {
+        void myFun(){
+            Console.WriteLine("Hello World!");
         }
     }
 }
